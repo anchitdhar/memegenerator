@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+header {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    background: #6441A5;
+}
+
+header.picture{
+    size: 10px;
+    width: 10px;
+    height: 10px;
+}
